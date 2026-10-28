@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Preview"
+  short_description: "Três interfaces HTML/CSS para escolher"
+  default_prompt: "Use $design-preview para ler o design_guideline deste projeto e gerar três propostas distintas da mesma interface em preview/, aguardando minha escolha antes de apagar duas."
